@@ -1,4 +1,4 @@
-# 42_ft_printf
+# ft_printf
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/alx-sch/42_ft_printf/main/.assets/ft_printfe.png" alt="ft_printf_logo" />

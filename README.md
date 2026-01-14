@@ -1,7 +1,7 @@
 # ft_printf
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/alx-sch/42_ft_printf/main/.assets/ft_printfe.png" alt="ft_printf_logo" />
+    <img src=".assets/ft_printfe.png" alt="ft_printf_logo" />
 </p>
 
 A custom implementation of a simplified printf() function, employing variadic macros to handle various format specifiers.

@@ -394,5 +394,7 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
-# JetBrains Rider
-*.sln.iml
+# Building Artifacts
+TEST
+*.o
+*.a
